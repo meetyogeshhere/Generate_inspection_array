@@ -10,7 +10,7 @@ Numpy
 
 ### Installing libraries
 ```
-python -r requirement.txt
+python -r requirements.txt
 ```
 
 
